@@ -34,6 +34,7 @@ Y = trainer_data[['total_earnings']].values
 
 model= Sequential ()
 
+
 model.add(Dense(50, input_dim=9, activation= 'relu' ))
 model.add(Dense(100, activation='relu'))
 model.add(Dense(50, activation='relu'))
@@ -51,3 +52,20 @@ Y_test = tester_data[['total_earnings']].values
 test_error_rate= model.evaluate(X_test,Y_test, verbose=0 )
 
 print(' this is your test error rate {} '.format(test_error_rate))
+
+
+X_predict= pd.read_csv("proposed_new_product.csv").values
+
+prediction=model.predict(X_predict)
+
+prediction = prediction [0] [0]
+
+prediction = prediction +0.1159
+
+prediction = prediction / 0.000036968
+
+print('questo: ${}'.format(prediction))
+
+
+model.save("k_diff_model_saved.h5")
+print("model saved to disk")
