@@ -1,1 +1,63 @@
 attempts/yolo/model_data/yolo.h5
+	.DS_Store
+	.idea/
+	API_test/
+	Exercise Files/.DS_Store
+	Exercise Files/03/
+	Exercise Files/04/
+	Exercise Files/05/
+	Exercise Files/06/
+	Exercise Files/07/
+	attempts/__pycache__/
+	attempts/keras_iamge_classification_2.py
+	experimentals/__init__.py
+	experimentals/decode_predictions.py
+	experimentals/exercise_2.py
+	experimentals/exp_poc1.py
+	experimentals/kagg_logs/
+	experimentals/kaggle_bin_class_data.csv
+	experimentals/math.nist.gov/
+	experimentals/new_data_df.csv
+	experimentals/resnet50_weights_tf_dim_ordering_tf_kernels.h5
+	experimentals/utils.zip
+	inputs/.DS_Store
+	inputs/mkc_batch/batch_2_001.jpg
+	inputs/mkc_batch/batch_2_002.jpg
+	inputs/mkc_batch/batch_2_003.jpg
+	inputs/mkc_batch/batch_2_004.jpg
+	inputs/mkc_batch/batch_2_005.jpg
+	inputs/mkc_batch/batch_2_006.jpg
+	inputs/mkc_batch/batch_2_007.jpg
+	inputs/mkc_forms/001.jpg
+	inputs/mkc_forms/002.jpg
+	inputs/mkc_forms/003.jpg
+	inputs/mkc_forms/004.jpg
+	inputs/mkc_forms/005.jpg
+	inputs/mkc_forms/006.jpg
+	inputs/mkc_forms/007.jpg
+	inputs/resnet_inputs/
+	keras_diff/K_inception3.py
+	keras_diff/K_to_mle.py
+	keras_diff/cotco.jpg
+	keras_diff/ct.jpg
+	keras_diff/incept_model_1/
+	keras_diff/k_diff_model_saved.h5
+	keras_diff/logs/
+	keras_diff/proposed_new_product.csv
+	keras_diff/sales_data_test.csv
+	keras_diff/sales_data_training.csv
+	keras_diff/scaled_test_data.csv
+	keras_diff/scaled_train_data.csv
+	keras_diff/unscaled_model.py
+	keras_mle1/
+	keras_mle_sv/1.jpg
+	keras_mle_sv/b64_encode
+	keras_mle_sv/daisy.jpg
+	keras_mle_sv/incerto.h5
+	keras_mle_sv/incerto_model/
+	keras_mle_sv/input.json
+	keras_mle_sv/request.json
+	keras_mle_sv/request1.json
+	keras_mle_sv/test1.py
+	mck/
+	resnet/
